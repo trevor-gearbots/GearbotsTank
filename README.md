@@ -4,8 +4,10 @@ Gearbots Tank Code
 Uses BBC Microbit, 
 https://microbit.org/
 
-plus Elecfreaks joystick:bit and motor:bit
+plus Elecfreaks joystick:bit
 https://www.elecfreaks.com/joystick-bit-for-micro-bit.html
+
+and motor:bit
 https://www.elecfreaks.com/motor-bit-for-micro-bit-motorbit.html
 
 and the Yellow TT motors from the smart car chassis:
